@@ -9,6 +9,7 @@ public class Main {
 		Coche coches[] = new Coche[10];
 		String matricula;
 		int numVehiculos = 0;
+		System.out.println("Hola que taafdsfdsfsdfsdsaaaal");
 		
 		do {
 		System.out.println("Introduzca matricula de un coche");
@@ -48,4 +49,5 @@ public class Main {
         
         return true;
     }
+	
 }
