@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		//Programa que agrega matriculas de coches en el array de una clase validandolas
+		//Programa que agreg matriculas de coches en el array de una clase validandolas
 		Coche coches[] = new Coche[10];
 		String matricula;
 		int numVehiculos = 0;
